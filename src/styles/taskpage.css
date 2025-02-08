@@ -1,0 +1,12 @@
+.tasks-container {
+    max-width: 64rem;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+  }
+  
+  .tasks-title {
+    font-size: 1.875rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+    color: #1f2937;
+  }
